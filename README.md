@@ -1,3 +1,3 @@
-# abouit my Tableau Project
+# about my Tableau Project
 
 my project is about... 
