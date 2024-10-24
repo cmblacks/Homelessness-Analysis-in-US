@@ -1,3 +1,3 @@
-# about my Tableau Project
+# About my Tableau Project
 
-my project is about... 
+My project is about Homelessness within the US for 2023 and 2016
