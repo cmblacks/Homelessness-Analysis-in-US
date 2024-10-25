@@ -8,7 +8,7 @@ By breaking down the data by region or CoC, my analysis also explores geographic
 
 My dataset was located on the HUD Exchange website. Housing and Urban Development is what the HUD Exchange is focused on.   In essence, they work to lessen all housing-related worries and problems, such homelessness and housing affordability in the US. Point-in-Time (PIT) estimates of homelessness by state and Continuum of Care (CoC) geographic service area, as well as estimates of chronic homelessness since 2007, are available in raw datasets on the HUD Exchange. Veterans that are homeless are estimated starting in 2011. The project-level Housing Inventory Count (HIC) file for the current year is also accessible, as are the supporting HIC data by CoC and state.
 
-### **Any Future Work**
+## **Any Future Work**
 
 At this moment I have no future work planned for my data and project. I would love to work with communities and other states/cities to figure out how to reduce homelessness within the United states. 
 
