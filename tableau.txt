@@ -1,7 +1,1 @@
 Below is my Tableau Dashboard and where I found my data: 
-
-https://public.tableau.com/app/profile/christina.blackston/viz/HomelessnessWorkbook/Dashboard1
-
-https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
-
-https://www.hudexchange.info/programs/hdx/pit-hic/#2024-pit-count-and-hic-guidance-and-training
