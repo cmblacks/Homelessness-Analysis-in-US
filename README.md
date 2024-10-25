@@ -13,5 +13,7 @@ My dataset was located on the HUD Exchange website. Housing and Urban Developmen
 At this moment I have no future work planned for my data and project. I would love to work with communities and other states/cities to figure out how to reduce homelessness within the United states. 
 
 View my Tableau Dashboard: https://public.tableau.com/app/profile/christina.blackston/viz/HomelessnessWorkbook/Dashboard1
+
 View the HUD Exchange website: https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/
+
 View the HUD Exchange website with PIT information: https://www.hudexchange.info/programs/hdx/pit-hic/#2024-pit-count-and-hic-guidance-and-training
