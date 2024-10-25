@@ -4,4 +4,4 @@ My project focuses on analyzing homelessness trends in the United States, with a
 
 By breaking down the data by region or CoC, my analysis also explores geographic disparities in bed availability, offering a comprehensive view of how homelessness resources have evolved over time. My project aims to hopefully help inform decision-makers such as lawmakers, government agencies, and non-profits on the effectiveness of resource allocation and help guide future efforts in addressing homelessness in the U.S.
 
-[View my Tableau Dashboard]((https://public.tableau.com/app/profile/christina.blackston/viz/HomelessnessWorkbook/Dashboard1))
+View my Tableau Dashboard: https://public.tableau.com/app/profile/christina.blackston/viz/HomelessnessWorkbook/Dashboard1
